@@ -65,12 +65,8 @@ https://github.com/anas2k5/Tuternity-Backend
 
 ---
 
-## 🐍 Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
----
+
 
 ## 🤝 Connect With Me
 <p align="center">

@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-I'm **Anas Syed**, a passionate **Full-Stack Developer** and **Final Year CSE Student** focused on building  
+I'm  a passionate **Full-Stack Developer** and **Final Year CSE Student** focused on building  
 **scalable, fast and user-friendly applications** using modern technologies.
 
 - 🚀 Full-stack development with **React + Spring Boot**  

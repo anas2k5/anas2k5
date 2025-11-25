@@ -4,14 +4,16 @@
 ---
 
 ## 👨‍💻 About Me
-I'm  a passionate **Full-Stack Developer** and **Final Year CSE Student** focused on building  
+I'm a passionate **Full-Stack Developer** and **Final Year CSE Student** focused on building  
 **scalable, fast and user-friendly applications** using modern technologies.
 
-- 🚀 Full-stack development with **React + Spring Boot**  
-- ⚡ UI/UX with **Tailwind + Framer Motion**  
-- 🧠 Strong in **Java, SQL, DSA, REST APIs**  
-- ☁️ Learning **AWS, Deployment, Cloud Tools**  
-- 🎓 Built **TuterNity – Online Tutoring Platform**
+- 🚀 Full-stack development with **React + Spring Boot**
+- ⚡ UI/UX with **Tailwind + Framer Motion**
+- 🧠 Strong in **Java, SQL, DSA, REST APIs**
+- ☁️ Exploring **AWS, Cloud Deployment & DevOps basics**
+- 💼 Completed an internship as a **Developer Intern at Sopra**
+- 🧩 Solved **150+ problems on LeetCode** (DSA & problem-solving)
+- 🎯 Interested in **high-quality UI, clean architecture, and performance**
 
 ---
 
@@ -39,21 +41,14 @@ I'm  a passionate **Full-Stack Developer** and **Final Year CSE Student** focuse
 
 ---
 
-## 🌟 Featured Project — TuterNity
+## 🏆 Highlights & What I Do
 
-### 🎓 TuterNity — Online Tutoring Platform  
-A full-stack platform for students and tutors to schedule sessions, manage profiles & handle payments.
-
-🔗 **Live:**  
-https://tuternity-frontend.vercel.app/
-
-📌 **Frontend Repo:**  
-https://github.com/anas2k5/Tuternity-Frontend
-
-📌 **Backend Repo:**  
-https://github.com/anas2k5/Tuternity-Backend
-
-**Tech:** React, Tailwind, Framer Motion, Spring Boot, JWT, Stripe, MySQL
+- 🔧 Build **full-stack web apps** with authentication, role-based access and REST APIs  
+- 🧪 Use **Postman** for API testing and debugging  
+- 📦 Work with **SQL databases** and write efficient queries  
+- 📚 Regularly practice **DSA & problem solving** on platforms like LeetCode  
+- 🌐 Deploy projects on **Vercel** and experiment with **cloud & containerization**  
+- 🤝 Open to **internships, freelance work and collaborations** on impactful projects
 
 ---
 
@@ -64,9 +59,6 @@ https://github.com/anas2k5/Tuternity-Backend
 </p>
 
 ---
-
-
-
 
 ## 🤝 Connect With Me
 <p align="center">
